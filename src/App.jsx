@@ -2,7 +2,7 @@ import './App.css';
 
 const profile = {
   name: 'Cynthia .C. Azoro',
-  photo: '/ChatGPT Image Jan 15, 2026, 4.PNG',
+  photo: '/codespaces-react/profile-image.png',
   roles: [
     'Front-end Developer',
     'Virtual Assistant',
